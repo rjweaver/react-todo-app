@@ -15,7 +15,7 @@ const SinglePage = () => {
           slug: "about-author",
           title: "About the Author",
           description:
-            "This app was developed by Ibas Majid, a self-taught web developer and a technical writer. He is opened to freelance Gig. So go ahead and connect with ibas on Twitter @ibaslogic.",
+            "This App was created by rjweaver. I followed the great guide created by Ibas Majid, So go ahead and connect with ibas on Twitter @ibaslogic.",
         },
     ]
 
